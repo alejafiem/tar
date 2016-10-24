@@ -142,7 +142,7 @@ Legenda:
 1. [Kawa Piotr](https://gitlab.com/aurustius/ruby-project.git)
 1. Maksymilian Kicki
 1. [Knitter Mateusz](https://github.com/supperbull/RubyMateuszKnitter)
-1. Lewandowski Rafał
+1. [Lewandowski Rafał](https://github.com/alejafiem/projekty-ruby)
 1. [Osowska Aleksandra] (https://github.com/aosowska/Ruby)
 1. [Pobłocki Patryk](https://github.com/ppoblocki/tar)
 1. Radomski Artur
